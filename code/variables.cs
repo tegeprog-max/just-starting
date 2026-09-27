@@ -26,6 +26,14 @@ namespace variables
 
             Console.WriteLine("Is it alive ? " + alive);
 
+            // char is a single character.
+            char symbol = '@';
+            Console.WriteLine(symbol);
+            
+            // Strings
+            String name = "Antonio";
+            Console.WriteLine(name);
+
         }
     }
 }
