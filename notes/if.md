@@ -1,0 +1,3 @@
+Well, if's are a way to receive data and store it about conditions or even help us solving problems in code like, choose between a number and another or what's your name or even sign up process, whole code depends of questions and answers but sometimes it can be useless if its not on the right way, like, if u use many if, else, elseif instead of switches or while, or even if u broke the code trying to solve a problem built in many ifs, this whole scenary can happen.
+
+Ex: 1x IF, 4x else if and 1x else, be aware using these lines bc they can broke whole structure.
