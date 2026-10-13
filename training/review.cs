@@ -31,6 +31,21 @@ namespace review
             //And variables are what turn almost everything in here possible, like storing data or 
             // inputs interaction.
 
+            //Random
+            Random random = new Random();
+            int num1 = random.Next(1,3);
+            System.Console.WriteLine(num1);
+            int count = 0;
+            while(num1 != 2)
+            {
+                count++;
+                Console.WriteLine("There is no number 2 here. " + "(" + count + ")");
+                if(count == 100)
+                {
+                    break;
+                }
+            }
+
         }
     }
 }
