@@ -1,0 +1,1 @@
+Today is our "special day" like i said and like written in this file title, im about to create themainproject, well i have no idea what it it but im actually trying my best to reach my prime and improve every single day my programming skills, themainproject inicially is a try to use every code line learned in these days, Thanks, ill note something later but for now thats it.
